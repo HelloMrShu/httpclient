@@ -1,0 +1,12 @@
+{
+    "name": "gaoqi/httpclient",
+    "authors": [
+        {
+            "name": "gaoqi",
+            "email": "qigao216538@sohu-inc.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
